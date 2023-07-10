@@ -5,7 +5,8 @@ body {
     Find a web safe font you like, and add it 
     to your card.
     */
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /*font-family: Verdana, Geneva, Tahoma, sans-serif;*/
+    font-family: Courier New;
 }
 
 .avatar {
